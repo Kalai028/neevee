@@ -17,7 +17,7 @@
 // });
 
 const images = [
-  "linear-gradient(360deg, rgba(0, 0, 0, 0.600), rgba(0, 0, 0, 0.600)),url(images/home-background-one.jpg)",
+  "linear-gradient(360deg, rgba(0, 0, 0, 0.660), rgba(0, 0, 0, 0.660)),url(images/home-background-one.jpg)",
   "linear-gradient(360deg, rgba(0, 0, 0, 0.680), rgba(0, 0, 0, 0.680)),url(images/home-background-two.jpg)",
   "linear-gradient(360deg, rgba(0, 0, 0, 0.680), rgba(0, 0, 0, 0.680)),url(images/home-background-three.jpg)",
 ];
