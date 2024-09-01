@@ -17,9 +17,9 @@
 // });
 
 const images = [
-  "linear-gradient(360deg, rgba(0, 0, 0, 0.660), rgba(0, 0, 0, 0.660)),url(images/home-background-one.jpg)",
-  "linear-gradient(360deg, rgba(0, 0, 0, 0.680), rgba(0, 0, 0, 0.680)),url(images/home-background-two.jpg)",
-  "linear-gradient(360deg, rgba(0, 0, 0, 0.680), rgba(0, 0, 0, 0.680)),url(images/home-background-three.jpg)",
+  "linear-gradient(360deg, rgba(0, 0, 0, 0.660), rgba(0, 0, 0, 0.660)),url(images/home_background_one.jpeg)",
+  "linear-gradient(360deg, rgba(0, 0, 0, 0.680), rgba(0, 0, 0, 0.680)),url(images/home_background_two.jpeg)",
+  // "linear-gradient(360deg, rgba(0, 0, 0, 0.680), rgba(0, 0, 0, 0.680)),url(images/home_background_three.jpeg)",
 ];
 
 let currentIndex = 0;

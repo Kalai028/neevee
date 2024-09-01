@@ -45,6 +45,11 @@ html {
   color: black !important;
   background-color: rgba(255, 255, 255, 0.664) !important;
 }
+
+#navbar .contact-buttons a {
+  text-decoration: none;
+  color: white;
+}
 #navbar .contact-buttons button {
   color: white;
   border: none;
@@ -55,10 +60,12 @@ html {
 }
 
 #navbar .contact-buttons button:hover {
-  color: orange;
   border: none;
 }
 
+#navbar .contact-buttons i:hover {
+  color: orange;
+}
 /* #navbar .contact-buttons button:hover .fa {
   color: black;
 } */
